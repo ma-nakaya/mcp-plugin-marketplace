@@ -15,7 +15,7 @@
       "source": {
         "source": "github",
         "repo": "ma-nakaya/onprem-gh-cli-mcp-server",
-        "sha": "7b814ee35951ca9c53f37d330d60fa543bcaef2d"
+        "sha": "b62078196ec9d115c4a126e40b40bf8509de2eb5"
       },
       "author": {
         "name": "ma-nakaya",
@@ -33,7 +33,7 @@
       "source": {
         "source": "github",
         "repo": "ma-nakaya/teams-mcp-server",
-        "sha": "dfc3ac58aa200dceb7b4d3da50b14bcf8f9d31fa"
+        "sha": "446756d0c5418850ce3775a60ecf0d7fab9136cb"
       },
       "author": {
         "name": "ma-nakaya",
@@ -68,7 +68,7 @@
       "source": {
         "source": "github",
         "repo": "ma-nakaya/outlook-com-mcp-server",
-        "sha": "b6a2c0619487eb5c58700f5aaa42afb22914c02f"
+        "sha": "a06ca93b8441dd244b3c6edd40b5e0540c3d82a5"
       },
       "author": {
         "name": "ma-nakaya",
@@ -85,7 +85,7 @@
       "source": {
         "source": "github",
         "repo": "ma-nakaya/sharepoint-browser-mcp-server",
-        "sha": "71077094c4df706894e66f3abfbc4fae0d2cf171"
+        "sha": "28498214f728b4dc5abd3546cc280c5758ecdef9"
       },
       "author": {
         "name": "ma-nakaya",
