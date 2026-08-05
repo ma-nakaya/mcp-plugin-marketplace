@@ -1,0 +1,99 @@
+{
+  "name": "ma-nakaya-mcp-plugins",
+  "owner": {
+    "name": "ma-nakaya"
+  },
+  "metadata": {
+    "description": "Portable skills and MCP plugins for ma-nakaya public MCP servers.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "onprem-gh-cli-mcp",
+      "description": "Operate allowlisted GitHub resources through a local GitHub CLI MCP server with a portable safety-focused skill.",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "ma-nakaya/onprem-gh-cli-mcp-server",
+        "sha": "7b814ee35951ca9c53f37d330d60fa543bcaef2d"
+      },
+      "author": {
+        "name": "ma-nakaya",
+        "url": "https://github.com/ma-nakaya"
+      },
+      "homepage": "https://github.com/ma-nakaya/onprem-gh-cli-mcp-server#readme",
+      "repository": "https://github.com/ma-nakaya/onprem-gh-cli-mcp-server",
+      "license": "MIT",
+      "keywords": ["mcp", "github", "github-cli", "agent-skills"]
+    },
+    {
+      "name": "teams-mcp",
+      "description": "Use Teams chats, channels, meetings, and transcripts with explicit safety boundaries for state changes and sends.",
+      "version": "0.3.0",
+      "source": {
+        "source": "github",
+        "repo": "ma-nakaya/teams-mcp-server",
+        "sha": "dfc3ac58aa200dceb7b4d3da50b14bcf8f9d31fa"
+      },
+      "author": {
+        "name": "ma-nakaya",
+        "url": "https://github.com/ma-nakaya"
+      },
+      "homepage": "https://github.com/ma-nakaya/teams-mcp-server#readme",
+      "repository": "https://github.com/ma-nakaya/teams-mcp-server",
+      "license": "MIT",
+      "keywords": ["mcp", "microsoft-teams", "agent-skills"]
+    },
+    {
+      "name": "outlook-web-mcp",
+      "description": "Use Outlook Web mail and calendar tools with explicit safety boundaries for read state and reply drafts.",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "ma-nakaya/outlook-web-mcp-server",
+        "sha": "4792ea571b1a1d9b02a4cad761e343e772b10941"
+      },
+      "author": {
+        "name": "ma-nakaya",
+        "url": "https://github.com/ma-nakaya"
+      },
+      "homepage": "https://github.com/ma-nakaya/outlook-web-mcp-server#readme",
+      "repository": "https://github.com/ma-nakaya/outlook-web-mcp-server",
+      "keywords": ["mcp", "outlook-web", "email", "calendar", "agent-skills"]
+    },
+    {
+      "name": "outlook-com-mcp",
+      "description": "Use Classic Outlook mail and calendar tools with explicit safety boundaries for read state and reply drafts.",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "ma-nakaya/outlook-com-mcp-server",
+        "sha": "b6a2c0619487eb5c58700f5aaa42afb22914c02f"
+      },
+      "author": {
+        "name": "ma-nakaya",
+        "url": "https://github.com/ma-nakaya"
+      },
+      "homepage": "https://github.com/ma-nakaya/outlook-com-mcp-server#readme",
+      "repository": "https://github.com/ma-nakaya/outlook-com-mcp-server",
+      "keywords": ["mcp", "classic-outlook", "email", "calendar", "agent-skills"]
+    },
+    {
+      "name": "sharepoint-browser-mcp",
+      "description": "Search and read configured SharePoint Online sites with progressive retrieval, citations, and strict read-only boundaries.",
+      "version": "0.10.0",
+      "source": {
+        "source": "github",
+        "repo": "ma-nakaya/sharepoint-browser-mcp-server",
+        "sha": "71077094c4df706894e66f3abfbc4fae0d2cf171"
+      },
+      "author": {
+        "name": "ma-nakaya",
+        "url": "https://github.com/ma-nakaya"
+      },
+      "homepage": "https://github.com/ma-nakaya/sharepoint-browser-mcp-server#readme",
+      "repository": "https://github.com/ma-nakaya/sharepoint-browser-mcp-server",
+      "keywords": ["mcp", "sharepoint", "search", "agent-skills"]
+    }
+  ]
+}
